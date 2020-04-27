@@ -6,13 +6,13 @@ This is a simple HTTP server, written in Python, used to demonstrate the basic f
 - Serve web pages
 - Serve binary files
 - Enter data in a database
-- Query data in a database
+- Query data from a database
 
 ## Run
 
 `./server.py ` 
 
-Then open a Web Browser, navigate to localhost:8080, and experiment with the various web-pages/files present in app-data. If you would like to test the database navigate to the url "localhost:8080/app-list"
+Then open a Web Browser, navigate to localhost:8080, and experiment with the various web-pages/files present in "www-data". If you would like to test the database navigate to the url "localhost:8080/app-list"
 
 
 ## Prerequisites
